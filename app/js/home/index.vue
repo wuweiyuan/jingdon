@@ -1,6 +1,7 @@
 <template>
     <div :class="$style.home">
         <h1>Home</h1>
+        <!-- ssfdadsfas -->
     </div>
 </template>
 
